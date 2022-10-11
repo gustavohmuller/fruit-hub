@@ -1,9 +1,9 @@
-import 'package:desafio_sprint_2_/screens/authentication_screen.dart';
-import 'package:desafio_sprint_2_/screens/home_screen.dart';
-import 'package:desafio_sprint_2_/screens/order_complete_screen.dart';
-import 'package:desafio_sprint_2_/screens/order_list_screen.dart';
-import 'package:desafio_sprint_2_/screens/product_description_screen.dart';
-import 'package:desafio_sprint_2_/screens/welcome_screen.dart';
+import 'package:fruithub/screens/authentication_screen.dart';
+import 'package:fruithub/screens/home_screen.dart';
+import 'package:fruithub/screens/order_complete_screen.dart';
+import 'package:fruithub/screens/order_list_screen.dart';
+import 'package:fruithub/screens/product_description_screen.dart';
+import 'package:fruithub/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
